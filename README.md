@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niel-dev14&label=Profile%20views&color=0e75b6&style=flat" alt="niel-dev14" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **mascarinas022@gmail.com**
 
