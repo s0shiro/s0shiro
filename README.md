@@ -2,9 +2,9 @@
 <h3 align="center">"Passionate Learner and Third-Year College Student | Exploring Knowledge, Chasing Dreams, and Embracing Growth"</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 10px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niel-dev14&label=Profile%20views&color=0e75b6&style=flat" alt="niel-dev14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeYaz&label=Profile%20views&color=0e75b6&style=flat" alt="niel-dev14" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development and AI Engineering**
 
 - 📫 How to reach me **mascarinas022@gmail.com**
 
