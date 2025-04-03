@@ -91,10 +91,10 @@
 
 <div align="center">
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s0shiro&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s0shiro&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=s0shiro&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=s0shiro&theme=tokyonight&hide_border=true&ring=2E96F7&fire=2E96F7&currStreakLabel=2E96F7" />
   </p>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0shiro&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s0shiro&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6" />
 </div>
 
 <br/>
